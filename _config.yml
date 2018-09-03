@@ -18,7 +18,7 @@ avatar: https://daryoush.github.io/images/paislystamp.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:dmehrtash@gmail.com
   facebook:
   flickr:
   github: daryoush
@@ -84,5 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 theme: jekyll-theme-minimal
